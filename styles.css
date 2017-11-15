@@ -1,0 +1,23 @@
+a {
+    background-color: black;
+    color: rgb(100, 149, 237);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 228, 225);
+    text-decoration: underline;                
+}
+
+.rulers {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px;             
+}
+
+#logo {
+    color: #feaaaa
+}
+
